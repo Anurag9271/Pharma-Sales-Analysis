@@ -14,3 +14,9 @@ Sales Manager/Sales Rep needs detailed overview showing sales by distributors an
 Head of Sales needs detailed report of sales by sales-team split by product and sales by sales-team split by product class and also the detailed analysis showing Top sales managers, Top sales reps, Top product split by sales team contributions answering.
 
 
+# Data moddel
+The provided data is in a single table format. The exploration revealed that it contains both categorical (dimensions) and numeric (facts) data.I build a data model where dimensions and facts are separated, then they are linked together by logical relationship to form a star schema. The resultant data model is shown below...
+
+![Model preview]("C:\Users\anura\OneDrive\Pictures\Screenshots\Screenshot 2025-11-07 113404.png")
+
+
