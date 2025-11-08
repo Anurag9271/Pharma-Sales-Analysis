@@ -17,6 +17,6 @@ Head of Sales needs detailed report of sales by sales-team split by product and 
 # Data moddel
 The provided data is in a single table format. The exploration revealed that it contains both categorical (dimensions) and numeric (facts) data.I build a data model where dimensions and facts are separated, then they are linked together by logical relationship to form a star schema. The resultant data model is shown below...
 
-![Model preview]("C:\Users\anura\OneDrive\Pictures\Screenshots\Screenshot 2025-11-07 113404.png")
-
-
+<p align="center">
+<img src="C:\Users\anura\OneDrive\Pictures\Screenshots\Screenshot 2025-11-07 113404.png"/>
+</p>
